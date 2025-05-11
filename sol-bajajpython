@@ -1,8 +1,8 @@
 import requests
 
-name = "Atharva Pandit"
-reg_no = "0827CY221018"
-email = "atharvaavinash220157@acropolis.in"
+name = "Ritik RAghuwanshi"
+reg_no = "0827CD221060"
+email = "ritikraghuwanshi220824@acropolis.in"
 
 response = requests.post(
     "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/PYTHON",
